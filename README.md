@@ -8,6 +8,11 @@ You can install SimpleEDA via pip. Write this command in terminal and voila, you
         
 It will auto install dependencies and you don't need to worry about anything.
 
+## Import
+To use SimpleEDA in your Jupyter notebook or python file, You can import it like this.
+
+    from simple_eda import SimpleEDA
+    
 # Functions
 SimpleEDA class has 8 functions that you can use. 
 
