@@ -1,6 +1,6 @@
 matplotlib==3.0.3
 nltk==3.6.5
-numpy==1.17.2
+numpy==1.22.0
 numpydoc==0.9.1
 pandas==0.25.1
 scikit-image==0.15.0
